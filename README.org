@@ -1,0 +1,3 @@
+#+TITLE: leasp
+
+Toy Theorem Prover and Proof Checker for the Integer Ring.
